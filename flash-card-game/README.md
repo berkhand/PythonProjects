@@ -1,1 +1,1 @@
-Simple project to use pandas
+Simple project to use pandas, tkinter
